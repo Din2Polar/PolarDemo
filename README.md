@@ -21,9 +21,9 @@
     <a href="https://github.com/Din2Polar/PolarDemo/issues">Request Feature</a>
   </p>
 </div>
-<div align="center">
+
 ![img_2.png](img_2.png)
-</div>
+
 ## Table of contents
 1. [About The Project](#about-the-project)
     * [Task](#task)
